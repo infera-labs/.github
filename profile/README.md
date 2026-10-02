@@ -4,7 +4,7 @@
 
 <h1 align="center">Infera</h1>
 
-<p align="center"><em>Explore ideas. Design solutions. Build technology.</em></p>
+<p align="center"><em>Powered by AI - Verified by Humans</em></p>
 
 ## About
 
